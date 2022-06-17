@@ -20,9 +20,9 @@ git --version
 4) git commit -m “New file” -- Добавляем комментарий
 5) git log –- Просмотр сохраненных состояний
 
-git checkout <hash> - переход в версию
-git checkout master – возврат к актуальной версии
-git diff – показывает внесенные изменения
+6) git checkout <hash> - переход в версию
+7) git checkout master – возврат к актуальной версии
+8) git diff – показывает внесенные изменения
 
 ## Клавиатурные сочетания
 
