@@ -28,6 +28,7 @@ git --version
 
 1) git branch
 2) git branch <Имя_ветки>
+3) git branch -d <Имя_ветки> - удаление ветки
 
 ## Клавиатурные сочетания
 
